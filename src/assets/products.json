@@ -1,0 +1,75 @@
+[
+
+
+
+
+            {
+                "id":1,
+                "name":"image1",
+                "amt":"100",
+                "ftype":"organic-products",
+                "pic":"images/bb.jpg"
+                },
+
+                {
+                    "id":2,
+                    "name":"image1",
+                    "amt":"100",
+                    "ftype":"organic-products",
+                    "pic":"images/cc.png"
+                    },
+
+                    {
+                        "id":3,
+                        "name":"image1",
+                        "amt":"100",
+                        "ftype":"organic-products",
+                        "pic":"images/dd.webp"
+                        },
+                        {
+                            "id":4,
+                            "name":"image1",
+                            "amt":"100",
+                            "ftype":"organic-products",
+                            "pic":"images/ee.webp"
+                            },{
+                                "id":5,
+                                "name":"image1",
+                                "amt":"100",
+                                "ftype":"organic-products",
+                                "pic":"images/ff.webp"
+                                },
+                                {
+                                    "id":6,
+                                    "name":"image1",
+                                    "amt":"100",
+                                    "ftype":"organic-products",
+                                    "pic":"images/gg.webp"
+                                    },
+                                    {
+                                        "id":7,
+                                        "name":"image1",
+                                        "amt":"100",
+                                        "ftype":"organic-products",
+                                        "pic":"images/hh.jpeg"
+                                        },
+                                        {
+                                            "id":8,
+                                            "name":"image1",
+                                            "amt":"100",
+                                            "ftype":"organic-products",
+                                            "pic":"images/ii.jpg"
+                                            },
+                                            {
+                                                "id":9,
+                                                "name":"image1",
+                                                "amt":"100",
+                                                "ftype":"organic-products",
+                                                "pic":"images/jj.png"
+                                                }
+                                                                                                                        
+                    
+
+
+
+]
